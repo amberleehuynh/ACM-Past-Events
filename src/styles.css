@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.search {
+  text-align: center;
+}
+
+div {
+  font-family: "Nanum Gothic", sans-serif;
+}
+
+.title {
+  line-height: 150%;
+  font-family: "Nanum Gothic", sans-serif;
+}
