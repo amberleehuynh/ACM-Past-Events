@@ -4,5 +4,3 @@ This webpage displays all of ACM's past events by fetching them through ACM UCSD
 ## Software build :pushpin:
 On the About page for this repository, click on the link attachment (https://codesandbox.io/s/github/amberleehuynh/Frontend-Challenge).
 From there, you will see the code for the design/ implementation of this webpage.
-
-Created with CodeSandbox
